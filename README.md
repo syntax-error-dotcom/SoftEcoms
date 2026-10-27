@@ -45,3 +45,7 @@ tapos i import tong sql na akong gi hatag tenkies
 ## Notes
 - Product images are in `public/assets/product_img/` (resized to keep the repo small).
 - Never commit `.env`. It's in `.gitignore`.
+
+
+
+## Logs
